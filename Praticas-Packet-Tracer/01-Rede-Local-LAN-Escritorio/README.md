@@ -19,7 +19,7 @@ A validação da rede foi realizada utilizando o utilitário `ping` a partir dos
 
 ![Teste de Ping](../../.assets/ping.png)
 
-[Topologia do Escritório](../../.assets/topologia.png)
+![Topologia do Escritório](../../.assets/topologia.png)
 
 </div>
 
