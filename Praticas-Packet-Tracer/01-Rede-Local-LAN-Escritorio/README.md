@@ -14,7 +14,7 @@ A topologia conta com conexões cabeadas (Cabo Direto / Copper Straight-Through)
 A validação da rede foi realizada utilizando o utilitário `ping` a partir dos computadores em direção à impressora de rede (`192.168.0.103`), confirmando o sucesso do roteamento e do envio/recebimento de pacotes ICMP com 0% de perda.
 
 ### Evidências
-*(Insira as imagens aqui)*
+
 ![Topologia do Escritório](../../.assets/topologia.png)
 ![Teste de Ping](../../.assets/ping.png)
 
