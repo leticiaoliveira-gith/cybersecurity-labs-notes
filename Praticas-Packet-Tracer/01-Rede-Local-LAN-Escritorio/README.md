@@ -15,8 +15,13 @@ A validação da rede foi realizada utilizando o utilitário `ping` a partir dos
 
 ### Evidências
 
-![Topologia do Escritório](../../.assets/topologia.png)
+<div align="center">
+
 ![Teste de Ping](../../.assets/ping.png)
+
+[Topologia do Escritório](../../.assets/topologia.png)
+
+</div>
 
 ## Conceitos Aplicados
 * Modelo OSI (Camadas Física, Enlace e Rede)
