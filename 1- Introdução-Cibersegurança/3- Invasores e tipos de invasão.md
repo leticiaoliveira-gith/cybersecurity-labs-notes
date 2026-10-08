@@ -5,10 +5,17 @@ Este documento apresenta uma visão geral sobre os diferentes tipos de agentes d
 A comunidade de segurança cibernética categoriza os invasores frequentemente com base em suas motivações e níveis de habilidade:
 
 * **Script Kiddies:** Indivíduos com baixo nível de conhecimento técnico que utilizam ferramentas, *scripts* ou códigos prontos criados por terceiros para realizar ataques, sem compreender profundamente como o ataque funciona.
+<img src="../.assets/kiddies.jpg" width="150" alt="Kiddies">
+
 * **Hackers (Categorias):**
     * **White Hat (Éticos):** Profissionais contratados para encontrar vulnerabilidades e ajudar a proteger sistemas.
+    <img src="../.assets/whiter.jpg" width="150" alt="white">
+    
     * **Black Hat (Cibercriminosos):** Motivado por lucro, malícia ou ganho pessoal, atuando fora da lei.
+    <img src="../.assets/black.jpg" width="150" alt="black">
+    
     * **Grey Hat:** Ficam no meio termo, podendo realizar invasões sem autorização, mas sem a intenção direta de causar dano.
+    <img src="../.assets/grey.jpg" width="150" alt="grey">
 
 ### Duas Áreas de Atuação Comuns
 1.  **Segurança Ofensiva (Red Teaming / Pentesting):** Especialistas que simulam ataques reais para testar a resistência das defesas de uma organização.
